@@ -1,3 +1,4 @@
+MaierKaroline it is myDiscord
 # lottery.aleo
 
 ## Run Guide
